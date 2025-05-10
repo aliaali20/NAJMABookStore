@@ -23,11 +23,7 @@ an immersive movie browsing experience, providing enhanced security for user acc
   * unit of work Pattern
   * Dependency injection 
 
-* Identity
   
-# architecture
-  * n-tier architecture
-
 
 
 
